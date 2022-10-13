@@ -1,0 +1,17 @@
+*~
+.DS_Store
+*.orig
+out/
+gen
+.idea/
+bin/
+*.iml
+.project
+local.properties
+*/build
+.gradle/
+/build
+app/src/debug/
+app/src/release/
+signi.properties
+/signi.keystore
